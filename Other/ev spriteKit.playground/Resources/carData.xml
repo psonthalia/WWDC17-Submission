@@ -1,0 +1,83 @@
+<catalog>
+    <item>
+        <name>Tesla Model X</name>
+        <price>$85,000</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>true</seat6>
+        <seat7>true</seat7>
+        <range>289</range>
+    </item>
+    <item>
+        <name>Tesla Model S</name>
+        <price>$68,000</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>315</range>
+    </item>
+    <item>
+        <name>Nissan Leaf</name>
+        <price>$30,680</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>107</range>
+    </item>
+    <item>
+        <name>Chevrolet Bolt</name>
+        <price>$36,620</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>238</range>
+    </item>
+    <item>
+        <name>Toyota RAV4 EV</name>
+        <price>$49,800</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>113</range>
+    </item>
+    <item>
+        <name>Fiat 500e</name>
+        <price>$32,995</price>
+        <seat4>true</seat4>
+        <seat5>false</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>87</range>
+    </item>
+    <item>
+        <name>Honda Fit EV</name>
+        <price>$36,625</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>82</range>
+    </item>
+    <item>
+        <name>KIA Soul EV</name>
+        <price>$32,250</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>90</range>
+    </item>
+    <item>
+        <name>BMW i3</name>
+        <price>$42,400</price>
+        <seat4>true</seat4>
+        <seat5>false</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>114</range>
+    </item>
+</catalog>

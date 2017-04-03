@@ -1,0 +1,20 @@
+<catalog>
+<item>
+  <name>Tesla Model X</name>
+  <price>$100,000</price>
+  <seat4>true</seat4>
+  <seat5>true</seat5>
+  <seat6>true</seat6>
+  <seat7>true</seat7>
+  <range>240</range>
+</item>
+<item>
+  <name>Tesla Model S</name>
+  <price>$100,000</price>
+  <seat4>true</seat4>
+  <seat5>true</seat5>
+  <seat6>false</seat6>
+  <seat7>false</seat7>
+  <range>260</range>
+</item>
+</catalog>

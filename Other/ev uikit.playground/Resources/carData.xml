@@ -1,0 +1,92 @@
+<catalog>
+    <item>
+        <name>Tesla Model X</name>
+        <price>$85,000</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>true</seat6>
+        <seat7>true</seat7>
+        <range>289</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>Tesla Model S</name>
+        <price>$68,000</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>315</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>Nissan Leaf</name>
+        <price>$30,680</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>107</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>Chevrolet Spark</name>
+        <price>$25,120</price>
+        <seat4>true</seat4>
+        <seat5>false</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>82</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>Toyota RAV4 EV</name>
+        <price>$49,800</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>113</range>
+        <fedRebate></fedRebate>
+    </item>
+    <item>
+        <name>Fiat 500e</name>
+        <price>$32,995</price>
+        <seat4>true</seat4>
+        <seat5>false</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>87</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>Mercedes-Benz B-Class Electric Drive</name>
+        <price>$42,375</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>85</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>KIA Soul EV</name>
+        <price>$32,250</price>
+        <seat4>true</seat4>
+        <seat5>true</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>90</range>
+        <fedRebate>true</fedRebate>
+    </item>
+    <item>
+        <name>BMW i3</name>
+        <price>$42,400</price>
+        <seat4>true</seat4>
+        <seat5>false</seat5>
+        <seat6>false</seat6>
+        <seat7>false</seat7>
+        <range>114</range>
+        <fedRebate>true</fedRebate>
+    </item>
+</catalog>

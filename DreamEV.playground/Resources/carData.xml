@@ -1,0 +1,92 @@
+<catalog>
+    <item>
+        <name>Tesla Model X</name>
+        <price>85000</price>
+        <maxSeats>7</maxSeats>
+        <range>237</range>
+        <fedRebate>true</fedRebate>
+        <size>75</size>
+        <maintenance>600</maintenance>
+        <depreciation>62345</depreciation>
+    </item>
+    <item>
+        <name>Tesla Model S</name>
+        <price>68000</price>
+        <maxSeats>5</maxSeats>
+        <range>210</range>
+        <fedRebate>true</fedRebate>
+        <size>60</size>
+        <maintenance>600</maintenance>
+        <depreciation>52356</depreciation>
+    </item>
+    <item>
+        <name>Nissan Leaf</name>
+        <price>30680</price>
+        <maxSeats>5</maxSeats>
+        <range>107</range>
+        <fedRebate>true</fedRebate>
+        <size>30</size>
+        <maintenance>675</maintenance>
+        <depreciation>5989</depreciation>
+    </item>
+    <item>
+        <name>Chevrolet Spark EV</name>
+        <price>25120</price>
+        <maxSeats>4</maxSeats>
+        <range>82</range>
+        <fedRebate>true</fedRebate>
+        <size>19</size>
+        <maintenance>660</maintenance>
+        <depreciation>4340</depreciation>
+    </item>
+    <item>
+        <name>Toyota RAV4 EV</name>
+        <price>49800</price>
+        <maxSeats>5</maxSeats>
+        <range>113</range>
+        <fedRebate>true</fedRebate>
+        <size>41.8</size>
+        <maintenance>881</maintenance>
+        <depreciation>14738</depreciation>
+    </item>
+    <item>
+        <name>Fiat 500e</name>
+        <price>32995</price>
+        <maxSeats>4</maxSeats>
+        <range>87</range>
+        <fedRebate>true</fedRebate>
+        <size>24</size>
+        <maintenance>611</maintenance>
+        <depreciation>3355</depreciation>
+    </item>
+    <item>
+        <name>Mercedes B-Class</name>
+        <price>42375</price>
+        <maxSeats>5</maxSeats>
+        <range>85</range>
+        <fedRebate>true</fedRebate>
+        <size>28</size>
+        <maintenance>0</maintenance>
+        <depreciation>10569</depreciation>
+    </item>
+    <item>
+        <name>KIA Soul EV</name>
+        <price>32250</price>
+        <maxSeats>5</maxSeats>
+        <range>90</range>
+        <fedRebate>true</fedRebate>
+        <size>27</size>
+        <maintenance>960</maintenance>
+        <depreciation>11489</depreciation>
+    </item>
+    <item>
+        <name>BMW i3</name>
+        <price>42400</price>
+        <maxSeats>4</maxSeats>
+        <range>114</range>
+        <fedRebate>true</fedRebate>
+        <size>22</size>
+        <maintenance>583</maintenance>
+        <depreciation>11578</depreciation>
+    </item>
+</catalog>
